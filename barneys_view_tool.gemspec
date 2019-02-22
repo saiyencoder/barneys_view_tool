@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Varies view specific methods for applications I use in the words of Barney Stinson.}
   spec.description   = %q{A lie is just a great story that someone ruined with the truth}
-  spec.homepage      = "SuitUp.com"
+  spec.homepage      = "https://github.com/saiyencoder/barneys_view_tool"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
